@@ -2,9 +2,9 @@
 
 ##Learning Competencies
 
-* Understand the types of data structures.
-* Implement data structures in Ruby.
-* Recursion
+* Understand the types of data structures
+* Implement data structures in Ruby
+* Write recursive methods
 
 ##Summary
 
