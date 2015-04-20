@@ -27,7 +27,7 @@ in_words(82102713)  # => "eighty two million one hundred
 
 ###Release 0 : Ones and tens
 
-Start small: make it work for numbers 1 through 100.
+Start small: make it work for numbers 1 through 100.  If you're feeling crazy, try adding support for negative numbers.
 
 ###Release 1 : Up to one thousand
 
