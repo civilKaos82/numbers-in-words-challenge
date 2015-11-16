@@ -1,6 +1,6 @@
 require_relative '../number_in_words'
 
-describe 'in_words' do
+describe 'number_in_words' do
 
 	it 'should return the proper english equivalent of an integer' do
     expect(in_words(4)).to eq("four")

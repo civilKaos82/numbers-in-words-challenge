@@ -1,3 +1,2 @@
-def in_words(int)
-  # Your glorious code here
+def number_in_words(integer)
 end
