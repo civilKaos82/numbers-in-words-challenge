@@ -1,4 +1,4 @@
-require_relative 'numbers_in_words'
+require_relative '../number_in_words'
 
 describe 'in_words' do
 
