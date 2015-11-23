@@ -25,7 +25,7 @@ As always, we should be testing our method as we go.
 
 
 ### Release 1: Ten, Eleven, Twelve, and the Teens
-With a method that will convert single-digit integers, lets move on to converting some larger numbers.  Our method should also convert numbers from 10 - 19.
+With a method that will convert single-digit integers, let's move on to converting some larger numbers.  Our method should also convert numbers from 10 - 19.
 
 
 ### Release 2: Other Two-digit Integers
